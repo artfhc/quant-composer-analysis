@@ -52,7 +52,12 @@ Composer.trade is a no-code trading platform that enables users to create, autom
 3. composer_db_analysis_outdated.ipynb - the script contains an example of how to filter out the algos from the CSV files based on specific requirements
 
 ## CSV db examples
+- [CSV DB](https://drive.google.com/drive/folders/1KPhfKKWjtPXsFqkeXwlZ48rae3ldEDhG?usp=sharing)
 
+## Recommended Algos/Symphonies
+https://app.composer.trade/symphony/eF5JwlBSyBNnUqTPpREk/details
+https://app.composer.trade/symphony/CklMKxP88yXM9Lid0iAa/details
+https://app.composer.trade/symphony/ew6fG9vJu1j6t4TM1Ie7/details
 
 ## Tools
 - [API Doc](https://backtest-api.composer.trade/api/v2/api-docs/index.html)
